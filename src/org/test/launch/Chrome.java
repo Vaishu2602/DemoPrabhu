@@ -32,5 +32,6 @@ public class Chrome {
 		
 		WebElement findElement3 = d.findElement(By.name("login"));
 		findElement3.click();
+		System.out.println();
 	}
 }
